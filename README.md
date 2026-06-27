@@ -27,6 +27,6 @@
     <img width="150" src="https://files.catbox.moe/s55axf.png"
 </p>  
 
- <p align="center"> currently a WORK IN PROGRESS  
+ <p align="center"> currently a WORK IN PROGRESS!  
      
 <p align="center"> strawpage ㅤ.ㅤrentry ㅤ.ㅤatabook
